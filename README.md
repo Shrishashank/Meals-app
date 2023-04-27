@@ -6,3 +6,13 @@ This is Meals app Where you can know about your favourites meals. You can search
 
 Hosted link:-
 http://127.0.0.1:5500/index.html
+
+
+Language used :-
+Html, CSS and JavaScript .
+
+Functions:-
+User can see all the meals using Search bar.
+User can also search meals by Select by catagory.
+User can add meals to favorite list.
+
